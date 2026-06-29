@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Mineral Rights Laws by State and Dormancy Risk Index, 2026 edition (United States)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: "American Mineral Registry"
+date-released: "2026-06-16"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.20935347
+url: "https://americanmineralregistry.com/research/mineral-rights-by-state"
